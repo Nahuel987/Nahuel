@@ -5,7 +5,7 @@ public class Persona {
 	private String nombre;
 	private String rut;
 	
-	
+	//sdfghj
 	
 	
 	public Persona(String nombre, String rut) {
